@@ -1,0 +1,36 @@
+# =====================================================================
+# AURORA POS ANDROID APP - GIT IGNORE
+# =====================================================================
+
+# 1. Firebase Secret Configuration (Keep google-services.json local only)
+app/google-services.json
+google-services.json
+
+# 2. Built binaries & artifacts
+*.apk
+*.aab
+/build/
+app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# 3. Gradle build files & cache
+.gradle/
+build/
+
+# 4. Local machine properties (SDK paths)
+local.properties
+/local.properties
+
+# 5. Android Studio / IntelliJ IDE workspace files
+.idea/
+*.iml
+.kotlin/
+
+# 6. Operating System temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.bak
+*.tmp
