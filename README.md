@@ -42,6 +42,14 @@
 
 ---
 
+## 🌐 HỆ SINH THÁI AURORA POS ECOSYSTEM
+
+Dự án này là một thành phần trong hệ sinh thái nhà hàng thông minh Aurora:
+1. 📱 **Native Android Staff & Kitchen Display (KDS) App:** [aurora-pos-android](https://github.com/vmhuong/aurora-pos-android) *(Repo hiện tại)*
+2. 🌐 **Web QR Ordering & Cloud POS System:** [aurora-pos-system](https://github.com/vmhuong/aurora-pos-system) *(Giao diện khách quét QR, POS thu ngân, Cổng SePay)*
+
+---
+
 ## 🛠️ CÔNG NGHỆ SỬ DỤNG (TECH STACK)
 
 - **Ngôn ngữ:** Kotlin 2.0+
