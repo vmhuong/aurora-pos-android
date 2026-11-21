@@ -1,4 +1,4 @@
-# 📱 AURORA RESTAURANT & LOUNGE · ANDROID POS & KITCHEN DISPLAY (KDS) APP
+# AURORA RESTAURANT & LOUNGE · ANDROID POS & KITCHEN DISPLAY (KDS) APP
 
 > Ứng dụng Android chuyên dụng cho Nhân viên phục vụ và Màn hình Bếp (KDS) trong hệ sinh thái nhà hàng thông minh Aurora. Đồng bộ thời gian thực (0 giây) với Web khách đặt món qua Firebase Firestore Native SDK.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🌟 TÍNH NĂNG CHÍNH
+## TÍNH NĂNG CHÍNH
 
 1. **Sơ đồ bàn trực quan đa trạng thái (Floor Plan):**
    - Hiển thị toàn bộ các bàn theo lưới thông minh, tối ưu hóa cho Máy tính bảng (Tablet 10 - 12 inch) và Điện thoại di động.
@@ -61,7 +61,7 @@ Dự án này là một thành phần trong hệ sinh thái nhà hàng thông mi
 
 ---
 
-## 🚀 HƯỚNG DẪN CÀI ĐẶT & CHẠY DỰ ÁN
+## HƯỚNG DẪN CÀI ĐẶT & CHẠY DỰ ÁN
 
 ### Bước 1: Tải mã nguồn về máy
 ```bash
@@ -97,7 +97,7 @@ File APK sẽ được tạo tại:
 
 ---
 
-## 📁 CẤU TRÚC THƯ MỤC NGUỒN (SOURCE CODE)
+## CẤU TRÚC THƯ MỤC NGUỒN (SOURCE CODE)
 
 ```
 app/src/main/java/com/example/qrorderkitchen/
@@ -118,6 +118,6 @@ app/src/main/java/com/example/qrorderkitchen/
 
 ---
 
-## 📜 GIẤY PHÉP (LICENSE)
+## GIẤY PHÉP (LICENSE)
 
 Dự án được phân phối dưới giấy phép **MIT License**. Tự do sử dụng, chỉnh sửa và triển khai phục vụ nhà hàng, quán ăn của bạn.
